@@ -1,2 +1,2 @@
 # dev-loop0.github.io
-A webapp for organisation.
+Minecraft commands documentation + tutorials.
